@@ -1,0 +1,14 @@
+191114_conversion_scripts/
+aligned/
+audio/
+audiosplit/
+intermediary/
+non-aligned/
+__pycache__/
+tmp/
+
+*.mp3
+*.waw
+*.flac
+alignment_pipeline.sh
+alignment_pipeline.distributed.sh
