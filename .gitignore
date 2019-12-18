@@ -10,5 +10,4 @@ tmp/
 *.mp3
 *.waw
 *.flac
-alignment_pipeline.sh
-alignment_pipeline.distributed.sh
+key.txt
